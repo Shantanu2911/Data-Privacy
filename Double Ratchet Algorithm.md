@@ -114,5 +114,3 @@ WhatsApp employs the Double Ratchet Algorithm as part of its **Signal Protocol**
 - [Double Ratchet Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm)
 
 ---
-
-Feel free to reach out if you want me to add diagrams or sample code snippets to this file!
